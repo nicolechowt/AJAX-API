@@ -1,7 +1,7 @@
 # HW - APIs & AJAX
 
 ## Live Link 
- - www.example.com
+ - https://nicolechowt.github.io/AJAX-API/index.html
 
 ## Description on how to use the app
 - When the page first loads, a set of buttons are shown on top. 
