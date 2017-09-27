@@ -1,0 +1,43 @@
+
+
+body {
+	background-image: url("taylor-swift-in-a-red-skirt.jpg");
+	background-color: hsla(0,0%,100%,0.80);
+	background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    font-family: 'Josefin Slab', serif;
+	
+}
+
+
+body, html {
+	height: 100%;
+	text-align: center;
+	display: inline-block;
+}
+
+h1 {
+	font-size: 140px;
+	font-weight: bold;
+	color: #7a7a7a;
+	text-align: right;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px 0px 20px 0px;
+
+}
+
+p {
+	font-size: 24px;
+	color: #b9b9b9;
+	padding-left: 120px;
+	text-align:right;
+}
+
+
+.btn {
+	margin: 10px;
+}
+
+textarea:focus, input:focus{
+    border: 10px;
+}
