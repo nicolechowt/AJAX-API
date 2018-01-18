@@ -1,4 +1,4 @@
-# HW - APIs & AJAX
+# Taylor Swift's Boyfriend Hall of Fame - APIs & AJAX
 
 ## Live Link 
  - https://nicolechowt.github.io/AJAX-API/index.html
